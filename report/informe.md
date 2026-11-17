@@ -2,9 +2,9 @@
 **Cálculo del Momento de Inercia de un Disco con Densidad Variable**
 
 - **Institución:** Universidad Industrial de Santander (UIS)
-- **Escuela:** Ingeniería de Sistemas e Informática
+- **Escuela:** Física
 - **Asignatura:** Algoritmos y Arquitecturas Computacionales de Alto Rendimiento (2026-2)
-- **Autor:** Estudiante UIS
+- **Autor:** David Julio
 - **Entorno Experimental:** AMD Ryzen (Zen Architecture, 4 núcleos físicos / 8 hilos lógicos), 22 GB RAM, Windows 11, Python 3.12.10, Numba 0.68.1, NumPy 2.5.5.
 
 ---

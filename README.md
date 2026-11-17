@@ -1,7 +1,7 @@
 # Cálculo del Momento de Inercia mediante Integración de Monte Carlo y Computación de Alto Rendimiento
 
 **Universidad Industrial de Santander (UIS)**  
-**Escuela de Ingeniería de Sistemas e Informática**  
+**Escuela de Física**  
 **Asignatura:** Algoritmos y Arquitecturas Computacionales de Alto Rendimiento (2026-2)  
 **Evaluación 3:** Integración de Monte Carlo en CPU y GPU  
 
